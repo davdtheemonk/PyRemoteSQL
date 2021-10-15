@@ -13,7 +13,7 @@ Basically this is a python SQL client that allows you to connect to your remote 
 - sys
 
 ## Installation
-clone this repiratory
+clone this respiratory
 
 ```git clone https://github.com/davdtheemonk/PyRemoteSQL.git```
 

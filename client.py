@@ -1,7 +1,3 @@
-# incomplete
-# code cheza kiwewe
-# problems with reconnect
-
 
 import socket
 import time
